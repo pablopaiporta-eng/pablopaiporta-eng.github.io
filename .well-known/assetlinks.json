@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wnapp.id177044004155",
+      "package_name": "com.wnapp.id1770244004155",
       "sha256_cert_fingerprints": [
         "E6:DC:55:C1:80:45:63:F7:7C:AF:C2:7A:8A:0D:11:BD:37:B3:CD:C6:60:00:8F:55:7A:5F:C7:EE:BA:6F:16:7C"
       ]
